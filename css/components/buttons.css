@@ -1,0 +1,23 @@
+.btn-medium {
+  border-radius: 80px;
+  padding: 8px 16px;
+  background-color: #a0d6f2;
+  text-decoration: none;
+  border: 1px solid #222;
+  color: rgb(245,245,245);
+}
+
+.btn-medium:hover {
+  background-color: #00588f;
+}
+
+.btn-red {
+  background-color: #fd1015;
+  padding: 8px 16px;
+  text-decoration: none;
+  border: 1px solid #222;
+  color: rgb(245,245,245);
+  border-radius: 4px;
+  font-weight: bold;
+  box-shadow: 2px 2px 5px rgba(0,0,0,.10);
+}
